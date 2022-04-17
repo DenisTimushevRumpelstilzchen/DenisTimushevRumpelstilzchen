@@ -6,3 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DenisTimushevRumpelstilzchen)](https://github.com/DenisTimushevRumpelstilzchen/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisTimushevRumpelstilzchen&layout=compact)](https://github.com/DenisTimushevRumpelstilzchen/github-readme-stats)
+
+<p align="left">
+<a href="https://t.me/Rumpelstilzchen4" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
