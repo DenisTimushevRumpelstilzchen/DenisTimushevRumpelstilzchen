@@ -3,4 +3,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+a+student+of+the+qa.guru+school)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DenisTimushevRumpelstilzchen)](https://github.com/DenisTimushevRumpelstilzchen/github-profile-trophy)
