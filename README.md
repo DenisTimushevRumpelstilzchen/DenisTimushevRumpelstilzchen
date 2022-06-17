@@ -4,5 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+a+QA+engineer.;I'm+a+student+of+the+qa.guru+school.)](https://git.io/typing-svg)
   
 <a href="https://t.me/Rumpelstilzchen4" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a> [![Email](images/Gmail_Icon.png)](mailto:tdv14011984@gmail.com)
+[![Telegram](images/Telegram.svg)]("https://t.me/Rumpelstilzchen4")
 
   ![DenisTimushevRumpelstilzchen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisTimushevRumpelstilzchen&show_icons=true)
