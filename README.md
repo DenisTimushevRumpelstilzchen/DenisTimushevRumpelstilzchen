@@ -5,4 +5,5 @@
   
 [![Telegram](images/Telegram1.png)](https://t.me/Rumpelstilzchen4) [![Email](images/Gmail_Icon.png)](mailto:tdv14011984@gmail.com)
 
-  ![DenisTimushevRumpelstilzchen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisTimushevRumpelstilzchen&show_icons=true)
+![DenisTimushevRumpelstilzchen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisTimushevRumpelstilzchen&show_icons=true)
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
