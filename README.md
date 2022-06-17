@@ -7,8 +7,6 @@
 
 ![DenisTimushevRumpelstilzchen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisTimushevRumpelstilzchen&show_icons=true)
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 ### Technology used:
 ![Intelij_IDEA](images/Intelij_IDEA.png)
 ![Java](images/Java.png)
