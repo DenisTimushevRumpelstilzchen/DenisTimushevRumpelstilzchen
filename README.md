@@ -21,5 +21,3 @@
 ![Jenkins](images/Jenkins.png)
 ![Rest-Assured](images/Rest-Assured.png)
 ![Telegram](images/Telegram.png)
-![Jira](images/Jira.png)
-![Lombok](images/Lombok.png)
